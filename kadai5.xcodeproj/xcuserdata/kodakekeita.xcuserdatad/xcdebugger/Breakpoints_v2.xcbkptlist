@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F9540125-2A45-40C1-929D-19E3888E01A5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59154CC1-256B-46CA-A06F-2B284679AC00"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kadai5/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "59154CC1-256B-46CA-A06F-2B284679AC00 - 489f42be34184802"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kadai5.ViewController.(resultLabel in _C5EC334BB7377CB635510FD7517A58A5).getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "kadai5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kodakekeita/Desktop/kadai5/kadai5/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "59154CC1-256B-46CA-A06F-2B284679AC00 - 489f42be34184802"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kadai5.ViewController.(resultLabel in _C5EC334BB7377CB635510FD7517A58A5).setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "kadai5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kodakekeita/Desktop/kadai5/kadai5/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "59154CC1-256B-46CA-A06F-2B284679AC00 - 896ae11dbbe05d3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kadai5.ViewController.(resultLabel in _C5EC334BB7377CB635510FD7517A58A5).modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "kadai5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kodakekeita/Desktop/kadai5/kadai5/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "59154CC1-256B-46CA-A06F-2B284679AC00 - 5a82e8120716a108"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kadai5.ViewController.(resultLabel in _C5EC334BB7377CB635510FD7517A58A5).modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "kadai5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kodakekeita/Desktop/kadai5/kadai5/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "59154CC1-256B-46CA-A06F-2B284679AC00 - 31d855a6e32b9bb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kadai5.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; kadai5.ViewController"
+                  moduleName = "kadai5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kodakekeita/Desktop/kadai5/kadai5/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  uuid = "59154CC1-256B-46CA-A06F-2B284679AC00 - dbc4ff7dc11f8a6f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kadai5.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;kadai5.ViewController&gt;"
+                  moduleName = "kadai5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kodakekeita/Desktop/kadai5/kadai5/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7FD7D543-5A03-45CF-BBB0-F45E9B439E0B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kadai5/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2"
+            endingLineNumber = "2"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C14CBDE3-22EB-46D4-99F2-395419C83A1F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kadai5/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C14CBDE3-22EB-46D4-99F2-395419C83A1F - 6cf0d4a003e86a2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kadai5.ViewController.(textFiled2 in _C5EC334BB7377CB635510FD7517A58A5).getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "kadai5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kodakekeita/Desktop/kadai5/kadai5/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "C14CBDE3-22EB-46D4-99F2-395419C83A1F - 6cf0d4a003e86a2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kadai5.ViewController.(textFiled2 in _C5EC334BB7377CB635510FD7517A58A5).setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "kadai5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kodakekeita/Desktop/kadai5/kadai5/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "C14CBDE3-22EB-46D4-99F2-395419C83A1F - 6cf0d4a003e868de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kadai5.ViewController.(textFiled2 in _C5EC334BB7377CB635510FD7517A58A5).modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "kadai5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kodakekeita/Desktop/kadai5/kadai5/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "C14CBDE3-22EB-46D4-99F2-395419C83A1F - 7b97d16adb89ea18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kadai5.ViewController.(textFiled2 in _C5EC334BB7377CB635510FD7517A58A5).modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "kadai5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kodakekeita/Desktop/kadai5/kadai5/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "C14CBDE3-22EB-46D4-99F2-395419C83A1F - 31d855a6e32b9b71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kadai5.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; kadai5.ViewController"
+                  moduleName = "kadai5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kodakekeita/Desktop/kadai5/kadai5/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "C14CBDE3-22EB-46D4-99F2-395419C83A1F - dbc4ff7dc11f8aad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kadai5.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;kadai5.ViewController&gt;"
+                  moduleName = "kadai5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kodakekeita/Desktop/kadai5/kadai5/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E899F3E-B502-4605-8134-180B08E13AED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kadai5/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9E899F3E-B502-4605-8134-180B08E13AED - 6cf0d4a003e86a4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kadai5.ViewController.(textFiled1 in _C5EC334BB7377CB635510FD7517A58A5).getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "kadai5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kodakekeita/Desktop/kadai5/kadai5/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "9E899F3E-B502-4605-8134-180B08E13AED - 6cf0d4a003e86a4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kadai5.ViewController.(textFiled1 in _C5EC334BB7377CB635510FD7517A58A5).setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "kadai5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kodakekeita/Desktop/kadai5/kadai5/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "9E899F3E-B502-4605-8134-180B08E13AED - 6cf0d4a003e868de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kadai5.ViewController.(textFiled1 in _C5EC334BB7377CB635510FD7517A58A5).modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "kadai5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kodakekeita/Desktop/kadai5/kadai5/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "9E899F3E-B502-4605-8134-180B08E13AED - 7b97d16adb89ea7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kadai5.ViewController.(textFiled1 in _C5EC334BB7377CB635510FD7517A58A5).modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "kadai5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kodakekeita/Desktop/kadai5/kadai5/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "9E899F3E-B502-4605-8134-180B08E13AED - 31d855a6e32b9b16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kadai5.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; kadai5.ViewController"
+                  moduleName = "kadai5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kodakekeita/Desktop/kadai5/kadai5/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "9E899F3E-B502-4605-8134-180B08E13AED - dbc4ff7dc11f8aca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kadai5.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;kadai5.ViewController&gt;"
+                  moduleName = "kadai5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kodakekeita/Desktop/kadai5/kadai5/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74B2AABD-023F-4398-8D8D-26F529C4D89B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kadai5/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "showAlert(message:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
